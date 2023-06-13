@@ -51,7 +51,7 @@ LEFT JOIN dbo.meal_cost$ ON meal_cost$.meal = hotels.meal
 * The lowest revenue collected by the hotel was in January Q1 2018 at $108
 * There is no significant increase in the size of the parking space as the percentage occupied is not beyond 3% when compared to the total number of guests received at the hotel.
 * The city hotels contribute the highest revenue at $3.15M(54.42%)
-* The resort hotels contribute $2.86M (47.58%) of the total revenue
+* The resort hotels contribute the least revenue at $2.86M (47.58%)
 
 ## Recommendations
 * The hotel does not need to increase its parking size since a majority of customers do not come with personal cars. This could be a good business idea where the organisation could offer transfer and tour  services to customers to increase its sales revenue
