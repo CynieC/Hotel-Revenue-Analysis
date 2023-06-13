@@ -9,8 +9,12 @@ A sample hotel company wishes to understand its revenue patterns to make informe
 
 ## Process
 The project involved querying from a database created in MSSQL. 
-The Excel sheet was imported to SQL Server Management Studio where 4 different tables were merged to produce a single table for analysis.
-![Screenshot of the tables in the Hotel_Project database.](C:\Users\ADMIN\Downloads\tables.png)
+The Excel sheet was imported to SQL Server Management Studio where 5 different tables were merged to produce a single table for analysis.
+* dbo.['2018$']
+* dbo.['2019$']
+* dbo.['2020$'])
+* dbo.meal_cost$
+* dbo.market_segment$
 
 Some of the columns in the Excel file include:
 * Hotel - these were the hotel types
